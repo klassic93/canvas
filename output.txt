@@ -1,0 +1,60 @@
+------------------------------------------
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+------------------------------------------
+------------------------------------------
+|                                        |
+|xxxxxx                                  |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+------------------------------------------
+------------------------------------------
+|                                        |
+|xxxxxx                                  |
+|     x                                  |
+|     x                                  |
+|     x                                  |
+|     x                                  |
+|     x                                  |
+|     x                                  |
+|     x                                  |
+|     x                                  |
+------------------------------------------
+------------------------------------------
+|               xxxxx                    |
+|xxxxxx         x   x                    |
+|     x         xxxxx                    |
+|     x                                  |
+|     x                                  |
+|     x                                  |
+|     x                                  |
+|     x                                  |
+|     x                                  |
+|     x                                  |
+------------------------------------------
+------------------------------------------
+|oooooooooooooooxxxxxoooooooooooooooooooo|
+|xxxxxxooooooooox   xoooooooooooooooooooo|
+|     xoooooooooxxxxxoooooooooooooooooooo|
+|     xoooooooooooooooooooooooooooooooooo|
+|     xoooooooooooooooooooooooooooooooooo|
+|     xoooooooooooooooooooooooooooooooooo|
+|     xoooooooooooooooooooooooooooooooooo|
+|     xoooooooooooooooooooooooooooooooooo|
+|     xoooooooooooooooooooooooooooooooooo|
+|     xoooooooooooooooooooooooooooooooooo|
+------------------------------------------
